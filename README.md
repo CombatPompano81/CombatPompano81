@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CombatPompano81
 - 👀 I’m interested in coding, gaming, science, and math. I love to combine all of these topics.
-- 🌱 I’m currently learning Full Stack and arduino.
-- 💞️ I’m looking to collaborate on nothing at moment.
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to apply for discord servers as a bot developer and manager.
 - 📫 Reach me out using my email (combatpompano@gmail.com) or my discord username (pompano!#5388). 
 
 <!---
